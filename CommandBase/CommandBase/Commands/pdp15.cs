@@ -11,6 +11,7 @@ namespace CommandBase.Commands
         public void Execute()
         {
             Console.WriteLine("PDP-15 command executed");
+            Console.WriteLine("Done");
         }
     }
 }
