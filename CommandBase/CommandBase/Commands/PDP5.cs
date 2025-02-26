@@ -11,6 +11,7 @@ namespace CommandBase.Commands
         public int Function1()
         {
             return 0;
+
         }
     }
 }
