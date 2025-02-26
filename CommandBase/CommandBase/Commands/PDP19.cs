@@ -8,7 +8,7 @@ namespace CommandBase.Commands
 {
     internal class PDP19
     {
-       public int Function19()
+       public string Function19()
        {
           return 0; 
        }
