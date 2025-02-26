@@ -8,6 +8,9 @@ namespace CommandBase.Commands
 {
     internal class PDP19
     {
-        Console.WriteLine("Hello PDP19")
+       public int Main()
+       {
+          return 0; 
+       }
     }
 }
