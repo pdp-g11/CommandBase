@@ -12,5 +12,15 @@ namespace CommandBase.Commands
         {
             return false;
         }
+
+        public bool IsLeft()
+        {
+            return false;
+        }
+
+        public bool IsBottom()
+        {
+            return false;
+        }
     }
 }
