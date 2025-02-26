@@ -8,5 +8,9 @@ namespace CommandBase.Commands
 {
     internal class Pdp8
     {
+        public int Task8()
+        {
+            return 1;
+        }
     }
 }
